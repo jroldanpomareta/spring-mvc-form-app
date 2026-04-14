@@ -8,6 +8,7 @@ Spring MVC Form App
 Aplicación web desarrollada con Spring MVC que permite el registro y login de usuarios mediante formularios.
 
 Funcionalidades
+
 Inicio de sesión de usuario
 Registro de nuevos usuarios
 Validación de formularios
