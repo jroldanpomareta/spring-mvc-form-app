@@ -10,23 +10,42 @@ Aplicación web desarrollada con Spring MVC que permite el registro y login de u
 Funcionalidades
 
 Inicio de sesión de usuario
+
 Registro de nuevos usuarios
+
 Validación de formularios
+
 Confirmación de datos introducidos
+
 Tecnologías
+
 Java
+
 Spring MVC
+
 JSP
+
 Maven
+
 Estructura
+
 Controladores Spring MVC
+
 Vistas JSP
+
 Configuración XML
+
 Formularios con Spring Form Tags
+
 Cómo ejecutar
+
 Importar el proyecto como Maven
+
 Ejecutar en un servidor (Tomcat)
+
 Acceder a la aplicación desde el navegador
+
 Autor
+
 
 Javier Roldán Pomareta
